@@ -2,7 +2,7 @@
 
 A new Flutter application with just basic widgets.
 
-![](https://github.com/Sachindrck/practice_app/blob/master/Sillicon_valley.jpeg) { height = 50% }
+![](https://github.com/Sachindrck/practice_app/blob/master/Sillicon_valley.jpeg) {:height="50%" width="50%"}
 
 ## Getting Started
 
