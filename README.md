@@ -2,7 +2,7 @@
 
 A new Flutter application with just basic widgets.
 
-![](https://github.com/Sachindrck/practice_app/blob/master/Sillicon_valley.jpegs=200)
+![]<img src = "https://github.com/Sachindrck/practice_app/blob/master/Sillicon_valley.jpeg" width = "400" height = "200">
 
 ## Getting Started
 
