@@ -1,6 +1,8 @@
 # iampoor
 
-A new Flutter application.
+A new Flutter application with just basic widgets.
+
+![](https://github.com/Sachindrck/practice_app/blob/master/Sillicon_valley.jpeg)
 
 ## Getting Started
 
